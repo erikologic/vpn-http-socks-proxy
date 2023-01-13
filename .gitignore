@@ -1,0 +1,4 @@
+.env
+vpn/config/.firewall
+vpn/config/.firewall6
+vpn/config/vpn.auth
